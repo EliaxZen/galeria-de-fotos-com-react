@@ -1,4 +1,4 @@
-###    GALERIA DE FOTOS (REACT)
+# GALERIA DE FOTOS (REACT)
 
 ## ![Captura de tela 2023-12-07 115049](https://github.com/EliaxZen/galeria-de-fotos-com-react/assets/132005740/e2982804-4a17-452a-968e-aad03178e746)
 
