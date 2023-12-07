@@ -1,3 +1,10 @@
+###    GALERIA DE FOTOS (REACT)
+
+## ![Captura de tela 2023-12-07 115049](https://github.com/EliaxZen/galeria-de-fotos-com-react/assets/132005740/e2982804-4a17-452a-968e-aad03178e746)
+
+# Uma galeria de fotos simples feita com React. O principal objetivo desse pequeno projeto foi treinar o uso do useState.
+
+### 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
